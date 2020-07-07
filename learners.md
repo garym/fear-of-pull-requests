@@ -14,5 +14,5 @@ workshop as a section and add your name to that.
 
 ## Individual learners
 
-me (testing)
-author (testing)
+* me (testing)
+* author (testing)
